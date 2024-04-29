@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @geserrato
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning IOS Developer
+- 👀 I’m interested in Backend and Mobile
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me g.serrato41@outlook.com
 
 <!---
 geserrato/geserrato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
