@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geserrato
 - 👀 I’m interested in Backend and Mobile
-- 🌱 I’m currently learning Apple Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on Flutter and NodeJs
 - 📫 How to reach me g.serrato41@outlook.com
 
 <!---
