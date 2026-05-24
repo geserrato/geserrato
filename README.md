@@ -1,10 +1,43 @@
-- 👋 Hi, I’m @geserrato
-- 👀 I’m interested in Backend and Mobile
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter and .NET
-- 📫 How to reach me g.serrato41@outlook.com
+<div align="center">
 
-<!---
-geserrato/geserrato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Gerardo Estrella
+
+### Backend Engineer focused on Mobile & AI
+
+Building scalable APIs, mobile apps and modern software architectures with .NET, Flutter and AI-driven solutions.
+
+<br>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,flutter,angular,cs,dart,ts,azure,firebase,git,github" />
+</p>
+
+</div>
+
+---
+
+# About Me
+
+```csharp
+public class GerardoEstrella
+{
+    public string Role => "Backend Engineer";
+    
+    public string[] CurrentFocus =>
+    [
+        "Scalable backend architectures",
+        "Mobile development with Flutter",
+        "AI integrations",
+        "Clean Architecture",
+        "Cloud solutions with Azure"
+    ];
+
+    public string[] TechStack =>
+    [
+        ".NET",
+        "Flutter",
+        "Angular",
+        "Azure SQL",
+        "REST APIs"
+    ];
+}
