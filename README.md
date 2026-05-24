@@ -9,7 +9,7 @@ Building scalable APIs, mobile apps and modern software architectures with .NET,
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,flutter,angular,cs,dart,ts,azure,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=dotnet,flutter,angular,cs,dart,ts,azure,git,github" />
 </p>
 
 </div>
